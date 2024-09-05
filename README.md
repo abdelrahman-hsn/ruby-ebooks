@@ -1,4 +1,6 @@
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2FMcG1vOGR4ek9IenhTWGtydUplMDVmemZQNGh2ajRJeW5WbA==#Freika/dawarich&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Freika/dawarich&type=Date)](https://star-history.com/#Freika/dawarich&Date)
 
 # Ruby Ebooks
 
