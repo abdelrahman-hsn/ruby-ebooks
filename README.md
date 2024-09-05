@@ -1,6 +1,6 @@
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Freika/dawarich&type=Date)](https://star-history.com/#Freika/dawarich&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abdelrahman-hsn/ruby-ebooks&type=Date)](https://star-history.com/#abdelrahman-hsn/ruby-ebooks&Date)
 
 # Ruby Ebooks
 
