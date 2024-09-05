@@ -1,3 +1,5 @@
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2FMcG1vOGR4ek9IenhTWGtydUplMDVmemZQNGh2ajRJeW5WbA==#Freika/dawarich&Date" frameBorder="0"></iframe>
+
 # Ruby Ebooks
 
 * Advanced Rails (2008).chm
